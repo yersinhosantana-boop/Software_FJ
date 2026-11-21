@@ -1,0 +1,19 @@
+2026-11-20 21:14:19,440 - INFO - Prueba del sistema Software FJ
+2026-11-20 21:16:10,893 - INFO - Prueba del sistema Software FJ
+2026-11-20 21:16:10,893 - ERROR - Error al registrar cliente: Correo inválido
+2026-11-20 21:18:04,519 - INFO - Prueba del sistema Software FJ
+2026-11-20 21:18:04,520 - ERROR - Error al registrar cliente: Correo inválido
+2026-11-20 21:19:21,847 - INFO - Prueba del sistema Software FJ
+2026-11-20 21:19:21,847 - ERROR - Error al registrar cliente: Correo inválido
+2026-11-20 21:19:21,848 - ERROR - Error al procesar reserva cancelada: No se puede procesar una reserva cancelada
+2026-11-20 21:26:06,312 - INFO - Prueba del sistema Software FJ
+2026-11-20 21:26:06,312 - ERROR - Error al registrar cliente: Correo inválido
+2026-11-20 21:26:06,316 - ERROR - Error al procesar reserva cancelada: No se puede procesar una reserva cancelada
+2026-11-20 21:48:22,562 - INFO - Prueba del sistema Software FJ
+2026-11-20 21:48:22,562 - ERROR - Error al registrar cliente: Correo inválido
+2026-11-20 21:48:22,563 - ERROR - Error al procesar reserva cancelada: No se puede procesar una reserva cancelada
+2026-11-20 21:48:22,563 - ERROR - Telefono invalido: Teléfono inválido
+2026-11-20 21:49:28,189 - INFO - Prueba del sistema Software FJ
+2026-11-20 21:49:28,189 - ERROR - Error al registrar cliente: Correo inválido
+2026-11-20 21:49:28,189 - ERROR - Error al procesar reserva cancelada: No se puede procesar una reserva cancelada
+2026-11-20 21:49:28,190 - ERROR - Telefono invalido: Teléfono inválido
